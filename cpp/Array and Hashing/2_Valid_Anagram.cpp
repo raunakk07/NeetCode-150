@@ -11,6 +11,6 @@ public:
             if(arr[i] !=0 ) return false;
 
         }return true;
-
+    //if we can't use extra space, just sort both string and check 
     }
 };
